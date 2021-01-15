@@ -1,0 +1,23 @@
+respChar;respNum
+Totalmente en desacuerdo;1
+En Desacuerdo;2
+Ni deacuerdo ni en desacuerdo;3
+De acuerdo;4
+Totalmente De acuerdo;5
+Para nada;1
+De menor medida;2
+De manera moderada;3
+En gran medida;4
+Completamente;5
+Nunca sabe;1
+A veces sabe;3
+Usualmente sabe;4
+Siempre sabe;5
+Nada;1
+Algo pero no lo suficiente;3
+Suficiente;4
+Completamente;5
+No lo haría;1
+Probablemente no lo haría;3
+Probablemente lo haría;4
+Sí lo haría;5
