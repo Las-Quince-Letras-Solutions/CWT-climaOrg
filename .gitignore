@@ -1,4 +1,11 @@
-.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+.Rapp.history
+.Rproj.user/
+packrat/lib*/
+~$*
+.~*
+.Rproj.user
+.RDataTmp2
